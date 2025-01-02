@@ -20,5 +20,8 @@ Recherche Optionnelle : Recherche rapide d'informations (joueurs, salles, etc.).
 Langage : C++
 Environnement de développement : Xcode
 
+## Languages
+![C++](https://img.shields.io/badge/Languages-C++-blue)
+
 ## Auteurs
 Anas Ait El Qadi
